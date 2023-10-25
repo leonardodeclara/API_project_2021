@@ -1,6 +1,6 @@
 # Algorithms and Principles of Computer Science project 2020/2021
 
-Project for Algorithms and Principles of Computer Science course 2020/21 at Politecnico di Milano.
+Project for Algorithms and Principles of Computer Science (<em>Algoritmi e Principi dell'Informatica</em>) course 2020/21 at Politecnico di Milano.
 
 **Professors**:  Matteo Pradella, Davide Martinenghi, Alessandro Barenghi <br>
 
